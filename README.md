@@ -15,23 +15,23 @@
 
 <br/>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-avançado-F2C811?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#-principais-habilidades)
+[![DAX](https://img.shields.io/badge/DAX-avançado-F2C811?style=flat-square)](#-principais-habilidades)
+[![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346?style=flat-square)](#-principais-habilidades)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#-principais-habilidades)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#-principais-habilidades)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#-principais-habilidades)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#-principais-habilidades)
+[![Excel](https://img.shields.io/badge/Excel%20avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#-principais-habilidades)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD-ROPA%20%7C%20Inventário%20de%20Dados-0B7285?style=flat-square)
-![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E7D32?style=flat-square)
-![Econometria](https://img.shields.io/badge/Econometria-VAR%20%7C%20Stata%20%7C%20Gretl-6A1B9A?style=flat-square)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#-principais-habilidades)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#-principais-habilidades)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#-principais-habilidades)
+[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)](#-principais-habilidades)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](#-principais-habilidades)
+[![LGPD](https://img.shields.io/badge/LGPD-ROPA%20%7C%20Inventário%20de%20Dados-0B7285?style=flat-square)](#-principais-habilidades)
+[![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E7D32?style=flat-square)](#-principais-habilidades)
+[![Econometria](https://img.shields.io/badge/Econometria-VAR%20%7C%20Stata%20%7C%20Gretl-6A1B9A?style=flat-square)](#-principais-habilidades)
 
 </div>
 
