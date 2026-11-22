@@ -8,7 +8,7 @@
 
 *Transformo dados brutos em decisão: do pipeline ao painel executivo, do modelo financeiro ao inventário de dados pessoais.*
 
-📍 Cuiabá, MT · aberto a remoto e realocação
+ Cuiabá, MT · aberto a remoto e realocação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-newton--giovanni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-giovanni/)
 [![E-mail](https://img.shields.io/badge/E--mail-newton.teixeirag%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newton.teixeirag@gmail.com)
@@ -37,7 +37,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou economista e trabalho no ponto em que três disciplinas se encontram:
 
@@ -51,19 +51,19 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 
 | | |
 |---|---|
-| 🎓 **Formação** | Ciências Econômicas (UFMT) · MBA em Data Science e Analytics (em andamento) · MBA em Gestão da Qualidade e Auditoria · Pós em Logística Empresarial e Gestão de Produção |
-| 🏅 **Certificações** | Lean Six Sigma Green Belt · SQL Avançado · AWS Cloud Practitioner · Valuation (ANBIMA) · Finanças Corporativas (FGV) |
-| 🌎 **Idiomas** | Português (nativo) · Inglês · Espanhol |
+|  **Formação** | Ciências Econômicas (UFMT) · MBA em Data Science e Analytics (em andamento) · MBA em Gestão da Qualidade e Auditoria · Pós em Logística Empresarial e Gestão de Produção |
+|  **Certificações** | Lean Six Sigma Green Belt · SQL Avançado · AWS Cloud Practitioner · Valuation (ANBIMA) · Finanças Corporativas (FGV) |
+|  **Idiomas** | Português (nativo) · Inglês · Espanhol |
 
 ---
 
-## 🧰 Principais habilidades
+## Principais habilidades
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Data Analysis & BI
+###  Data Analysis & BI
 - Power BI: DAX avançado (medidas não aditivas, rankings dinâmicos, SLA em horas úteis)
 - Modelagem dimensional (Star Schema)
 - Power Query (M): unpivot, tratamento de APIs paginadas
@@ -73,7 +73,7 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Data Engineering & Repositórios
+###  Data Engineering & Repositórios
 - ETL/ELT em Python (pandas, pyodbc, SQLAlchemy)
 - SQL Server e MySQL: staging, `MERGE`, carga incremental com checkpoint
 - Integração com ERPs e APIs REST (TOTVS RM, SGEE, sistemas web)
@@ -85,7 +85,7 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Data Privacy & Governança (LGPD)
+### Data Privacy & Governança (LGPD)
 - ROPA (Record of Processing Activities)
 - Inventário e mapeamento de fluxo de dados pessoais
 - Glossário de dados corporativo
@@ -95,7 +95,7 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 </td>
 <td width="50%" valign="top">
 
-### 💰 Economic Modeling
+### Economic Modeling
 - Estudos de viabilidade (EVEF): VPL, TIR, Payback, ROI
 - Fluxo de caixa projetado e análise de cenários
 - Ponto de equilíbrio, margens e precificação
@@ -107,7 +107,7 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 <tr>
 <td colspan="2" valign="top">
 
-### 🌐 Web Development
+###  Web Development
 HTML5 · CSS3 · JavaScript · D3.js · Tailwind CSS · design responsivo · publicação em GitHub Pages · protótipos em Figma
 
 </td>
@@ -116,128 +116,128 @@ HTML5 · CSS3 · JavaScript · D3.js · Tailwind CSS · design responsivo · pub
 
 ---
 
-## 📂 Repositórios do portfólio
+##  Repositórios do portfólio
 
 Cada repositório é executável, traz dados fictícios e documenta o método.
 
 | Repositório | Pilar | O que você encontra |
 |---|---|---|
-| 🔐 [**lgpd-ropa-inventario-dados**](https://github.com/newgiovanni0833/lgpd-ropa-inventario-dados) | Privacidade e Governança | Modelo de ROPA, questionário de 12 blocos, mapa de fluxo de dados, tabela de guarda e descarte e validador automático em Python |
-| 🧭 [**repositorio-gap-analysis**](https://github.com/newgiovanni0833/repositorio-gap-analysis) | Repositórios de Dados · Web | Comparação campo a campo entre sistema de origem e repositório, backlog de modelagem e diagrama interativo em D3.js |
-| 🗄️ [**etl-incremental-sqlserver**](https://github.com/newgiovanni0833/etl-incremental-sqlserver) | Engenharia de Dados | Carga incremental e idempotente com blocos, staging, `MERGE` e checkpoint, testada com 722 mil linhas |
-| 🚚 [**frota-star-schema**](https://github.com/newgiovanni0833/frota-star-schema) | Análise de Dados e BI | ETL de planilhas operacionais para Star Schema, dicionário de dados, log de qualidade e medidas DAX |
-| 💰 [**viabilidade-economica-evef**](https://github.com/newgiovanni0833/viabilidade-economica-evef) | Economia | Modelo de viabilidade em 3 cenários: VPL, TIR, Payback, Simples Nacional e vale de caixa mês a mês |
+|  [**lgpd-ropa-inventario-dados**](https://github.com/newgiovanni0833/lgpd-ropa-inventario-dados) | Privacidade e Governança | Modelo de ROPA, questionário de 12 blocos, mapa de fluxo de dados, tabela de guarda e descarte e validador automático em Python |
+|  [**repositorio-gap-analysis**](https://github.com/newgiovanni0833/repositorio-gap-analysis) | Repositórios de Dados · Web | Comparação campo a campo entre sistema de origem e repositório, backlog de modelagem e diagrama interativo em D3.js |
+|  [**etl-incremental-sqlserver**](https://github.com/newgiovanni0833/etl-incremental-sqlserver) | Engenharia de Dados | Carga incremental e idempotente com blocos, staging, `MERGE` e checkpoint, testada com 722 mil linhas |
+|  [**frota-star-schema**](https://github.com/newgiovanni0833/frota-star-schema) | Análise de Dados e BI | ETL de planilhas operacionais para Star Schema, dicionário de dados, log de qualidade e medidas DAX |
+|  [**viabilidade-economica-evef**](https://github.com/newgiovanni0833/viabilidade-economica-evef) | Economia | Modelo de viabilidade em 3 cenários: VPL, TIR, Payback, Simples Nacional e vale de caixa mês a mês |
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 > Os projetos abaixo foram desenvolvidos em contexto profissional. Dados institucionais e de clientes não são publicados: os repositórios acima trazem a metodologia, a arquitetura e exemplos com dados fictícios.
 
-### 🔐 Privacidade e Governança de Dados
+###  Privacidade e Governança de Dados
 
 <details open>
-<summary><b>📌 ROPA e Inventário de Dados Pessoais — organização com 4 entidades</b></summary>
+<summary><b> ROPA e Inventário de Dados Pessoais — organização com 4 entidades</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Dar à instituição visibilidade completa sobre quais dados pessoais trata, com que finalidade, com quem compartilha e por quanto tempo guarda, reduzindo risco e padronizando a governança entre as casas do grupo. |
-| 🛠️ **Tecnologias e metodologias** | ROPA · inventário de dados por questionário estruturado em 12 blocos · guia de preenchimento · Glossário de Dados Corporativo · manual de guarda e descarte por macroprocesso · termo de responsabilidade para acesso a painéis |
-| 📊 **Impacto e resultados** | **105 operações de tratamento registradas** (67 atividades das áreas + 38 painéis de BI) · metodologia única replicada para as **4 entidades** do grupo · rotina de validação formal obrigatória antes da publicação de qualquer novo painel |
+|  **Objetivo de negócio** | Dar à instituição visibilidade completa sobre quais dados pessoais trata, com que finalidade, com quem compartilha e por quanto tempo guarda, reduzindo risco e padronizando a governança entre as casas do grupo. |
+|  **Tecnologias e metodologias** | ROPA · inventário de dados por questionário estruturado em 12 blocos · guia de preenchimento · Glossário de Dados Corporativo · manual de guarda e descarte por macroprocesso · termo de responsabilidade para acesso a painéis |
+|  **Impacto e resultados** | **105 operações de tratamento registradas** (67 atividades das áreas + 38 painéis de BI) · metodologia única replicada para as **4 entidades** do grupo · rotina de validação formal obrigatória antes da publicação de qualquer novo painel |
 
 </details>
 
 <details>
-<summary><b>📌 Privacy by Design na entrega de dashboards</b></summary>
+<summary><b> Privacy by Design na entrega de dashboards</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Garantir que nenhum indicador entre em produção sem fonte documentada, regra de cálculo auditável e responsável definido pelo acesso. |
-| 🛠️ **Tecnologias e metodologias** | Formulário de Validação de Entrega de Indicador (identificação, objetivo, definição técnica com DAX documentado, fontes, filtros, checklist de qualidade, seção de segurança e LGPD, histórico de versões) |
-| 📊 **Impacto e resultados** | Padrão aplicado a painéis de pessoas, banco de horas, marketing e operações · rastreabilidade ponta a ponta entre dado de origem, medida e usuário com acesso |
+|  **Objetivo de negócio** | Garantir que nenhum indicador entre em produção sem fonte documentada, regra de cálculo auditável e responsável definido pelo acesso. |
+|  **Tecnologias e metodologias** | Formulário de Validação de Entrega de Indicador (identificação, objetivo, definição técnica com DAX documentado, fontes, filtros, checklist de qualidade, seção de segurança e LGPD, histórico de versões) |
+|  **Impacto e resultados** | Padrão aplicado a painéis de pessoas, banco de horas, marketing e operações · rastreabilidade ponta a ponta entre dado de origem, medida e usuário com acesso |
 
 </details>
 
-### 🗄️ Repositórios e Engenharia de Dados
+### Repositórios e Engenharia de Dados
 
 <details open>
-<summary><b>📌 Repositório institucional de dados — análise de gap e modelagem</b></summary>
+<summary><b> Repositório institucional de dados — análise de gap e modelagem</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Preservar o histórico institucional e garantir continuidade dos relatórios durante a troca do sistema de gestão de eventos, reduzindo a dependência de sistemas de terceiros. |
-| 🛠️ **Tecnologias e metodologias** | SQL Server · Python · Excel · diagrama interativo de relacionamentos em **D3.js** (force-directed) · mapeamento campo a campo entre sistema de origem, repositório e painéis de BI |
-| 📊 **Impacto e resultados** | **27 consultas e cerca de 2,2 mil campos** analisados · 355 campos já disponíveis, 1.491 a incluir em tabelas existentes e 371 que exigem novas tabelas · roteiro de modelagem priorizado pelos painéis de custos, execução e cancelamentos |
+|  **Objetivo de negócio** | Preservar o histórico institucional e garantir continuidade dos relatórios durante a troca do sistema de gestão de eventos, reduzindo a dependência de sistemas de terceiros. |
+|  **Tecnologias e metodologias** | SQL Server · Python · Excel · diagrama interativo de relacionamentos em **D3.js** (force-directed) · mapeamento campo a campo entre sistema de origem, repositório e painéis de BI |
+|  **Impacto e resultados** | **27 consultas e cerca de 2,2 mil campos** analisados · 355 campos já disponíveis, 1.491 a incluir em tabelas existentes e 371 que exigem novas tabelas · roteiro de modelagem priorizado pelos painéis de custos, execução e cancelamentos |
 
 </details>
 
 <details>
-<summary><b>📌 ETL incremental em Python para SQL Server (700 mil+ linhas)</b></summary>
+<summary><b> ETL incremental em Python para SQL Server (700 mil+ linhas)</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Carregar a agenda de instrutores no repositório de forma automática e incremental, eliminando cargas manuais. |
-| 🛠️ **Tecnologias e metodologias** | Python (pandas, pyodbc, SQLAlchemy) · leitura em chunks · detecção automática de separador · inferência de tipos · tabela de staging + `MERGE` único · checkpoint em JSON · credenciais fora do código (variáveis de ambiente) |
-| 📊 **Impacto e resultados** | **722 mil linhas** processadas sem estouro de memória · reexecução segura (idempotente) · apenas registros novos a cada execução |
+|  **Objetivo de negócio** | Carregar a agenda de instrutores no repositório de forma automática e incremental, eliminando cargas manuais. |
+|  **Tecnologias e metodologias** | Python (pandas, pyodbc, SQLAlchemy) · leitura em chunks · detecção automática de separador · inferência de tipos · tabela de staging + `MERGE` único · checkpoint em JSON · credenciais fora do código (variáveis de ambiente) |
+|  **Impacto e resultados** | **722 mil linhas** processadas sem estouro de memória · reexecução segura (idempotente) · apenas registros novos a cada execução |
 
 </details>
 
 <details>
-<summary><b>📌 Star Schema de Frota e Logística</b></summary>
+<summary><b> Star Schema de Frota e Logística</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Consolidar abastecimento, pedágio, manutenção, multas, seguros e diárias em um único modelo analítico para controlar o custo por veículo. |
-| 🛠️ **Tecnologias e metodologias** | Python (script único e reexecutável) · Power Query (M) · Star Schema com 4 dimensões e 9 tabelas fato · unpivot de planilhas "largas" · log de qualidade e registros órfãos · dicionário de dados · integração com API do ERP TOTVS RM |
-| 📊 **Impacto e resultados** | Integridade referencial confirmada em todas as fatos · mais de 15 mil registros operacionais normalizados · indicador de custo de manutenção corretiva sobre o valor de mercado do veículo (FIPE) para apoiar a decisão de substituição |
+|  **Objetivo de negócio** | Consolidar abastecimento, pedágio, manutenção, multas, seguros e diárias em um único modelo analítico para controlar o custo por veículo. |
+|  **Tecnologias e metodologias** | Python (script único e reexecutável) · Power Query (M) · Star Schema com 4 dimensões e 9 tabelas fato · unpivot de planilhas "largas" · log de qualidade e registros órfãos · dicionário de dados · integração com API do ERP TOTVS RM |
+|  **Impacto e resultados** | Integridade referencial confirmada em todas as fatos · mais de 15 mil registros operacionais normalizados · indicador de custo de manutenção corretiva sobre o valor de mercado do veículo (FIPE) para apoiar a decisão de substituição |
 
 </details>
 
 <details>
-<summary><b>📌 Pipeline de monitoramento de mídia via API</b></summary>
+<summary><b> Pipeline de monitoramento de mídia via API</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Dar à área de comunicação um painel confiável de exposição na mídia, com os mesmos valores da plataforma de origem. |
-| 🛠️ **Tecnologias e metodologias** | Python · API REST com autenticação JWT · merge com histórico por ID · Power BI com painel de 10 cards em HTML/SVG (gauge, rankings, nuvem de palavras) |
-| 📊 **Impacto e resultados** | Extração completa e reconciliada com a exportação oficial (mais de 9 mil registros) · diagnóstico documentado das divergências de cálculo entre API e painel do fornecedor |
+|  **Objetivo de negócio** | Dar à área de comunicação um painel confiável de exposição na mídia, com os mesmos valores da plataforma de origem. |
+|  **Tecnologias e metodologias** | Python · API REST com autenticação JWT · merge com histórico por ID · Power BI com painel de 10 cards em HTML/SVG (gauge, rankings, nuvem de palavras) |
+|  **Impacto e resultados** | Extração completa e reconciliada com a exportação oficial (mais de 9 mil registros) · diagnóstico documentado das divergências de cálculo entre API e painel do fornecedor |
 
 </details>
 
-### 📈 Análise de Dados e BI
+###  Análise de Dados e BI
 
 <details open>
-<summary><b>📌 Portfólio de 35+ dashboards executivos</b></summary>
+<summary><b> Portfólio de 35+ dashboards executivos</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Levar informação estratégica, tática e operacional às gerências e à alta diretoria, com atualização automática. |
-| 🛠️ **Tecnologias e metodologias** | Power BI · DAX avançado · Power Query · API REST do Power BI + agendador de tarefas · assinaturas automáticas · visuais HTML/CSS/SVG para telas 4K e modo TV em rodízio |
-| 📊 **Impacto e resultados** | **35+ painéis** em produção · relatórios gerenciais distribuídos automaticamente a **95 sindicatos rurais** · atualização e publicação sem intervenção manual |
+|  **Objetivo de negócio** | Levar informação estratégica, tática e operacional às gerências e à alta diretoria, com atualização automática. |
+|  **Tecnologias e metodologias** | Power BI · DAX avançado · Power Query · API REST do Power BI + agendador de tarefas · assinaturas automáticas · visuais HTML/CSS/SVG para telas 4K e modo TV em rodízio |
+|  **Impacto e resultados** | **35+ painéis** em produção · relatórios gerenciais distribuídos automaticamente a **95 sindicatos rurais** · atualização e publicação sem intervenção manual |
 
 </details>
 
 <details>
-<summary><b>📌 Ranking ponderado de desempenho — 77 unidades em 14 regionais</b></summary>
+<summary><b> Ranking ponderado de desempenho — 77 unidades em 14 regionais</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Comparar unidades de forma justa e orientar um programa de valorização baseado em resultado. |
-| 🛠️ **Tecnologias e metodologias** | DAX (`RANKX`, `ALLSELECTED`, `REMOVEFILTERS`, medidas não aditivas) · índice composto com 9 indicadores ponderados · média de rankings para equalizar escalas |
-| 📊 **Impacto e resultados** | Ranking que respeita o filtro regional · correção de uma divergência de regra entre dois painéis que afetava milhares de eventos classificados · base para a apresentação de resultados às regionais |
+|  **Objetivo de negócio** | Comparar unidades de forma justa e orientar um programa de valorização baseado em resultado. |
+|  **Tecnologias e metodologias** | DAX (`RANKX`, `ALLSELECTED`, `REMOVEFILTERS`, medidas não aditivas) · índice composto com 9 indicadores ponderados · média de rankings para equalizar escalas |
+|  **Impacto e resultados** | Ranking que respeita o filtro regional · correção de uma divergência de regra entre dois painéis que afetava milhares de eventos classificados · base para a apresentação de resultados às regionais |
 
 </details>
 
 <details>
-<summary><b>📌 SLA de chamados em horas úteis</b></summary>
+<summary><b> SLA de chamados em horas úteis</b></summary>
 <br/>
 
 | | |
@@ -248,97 +248,97 @@ Cada repositório é executável, traz dados fictícios e documenta o método.
 
 </details>
 
-### 💰 Economia e Viabilidade
+###  Economia e Viabilidade
 
 <details open>
-<summary><b>📌 Estudo de Viabilidade Econômico-Financeira — hub audiovisual</b></summary>
+<summary><b> Estudo de Viabilidade Econômico-Financeira — hub audiovisual</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Responder a duas perguntas dos sócios antes da abertura: o negócio se paga? Qual ponto comercial escolher? |
-| 🛠️ **Tecnologias e metodologias** | Modelo dinâmico em Excel com **22 abas** · 3 cenários (pessimista, realista, otimista) em 5 anos · VPL, TIR, Payback simples e descontado, ROI · fluxo de caixa livre desalavancado · alíquota efetiva progressiva do Simples Nacional · Python (numpy-financial) para validação · comparação de 25 imóveis por custo fixo total |
-| 📊 **Impacto e resultados** | Recomendação fundamentada do ponto comercial · identificação antecipada de um vale de caixa entre o 4º e o 8º mês · cálculo do pró-labore que o próprio negócio sustenta, ano a ano · estudo convertido em rotina mensal de acompanhamento (DRE gerencial, metas e fluxo de caixa) |
+|  **Objetivo de negócio** | Responder a duas perguntas dos sócios antes da abertura: o negócio se paga? Qual ponto comercial escolher? |
+|  **Tecnologias e metodologias** | Modelo dinâmico em Excel com **22 abas** · 3 cenários (pessimista, realista, otimista) em 5 anos · VPL, TIR, Payback simples e descontado, ROI · fluxo de caixa livre desalavancado · alíquota efetiva progressiva do Simples Nacional · Python (numpy-financial) para validação · comparação de 25 imóveis por custo fixo total |
+|  **Impacto e resultados** | Recomendação fundamentada do ponto comercial · identificação antecipada de um vale de caixa entre o 4º e o 8º mês · cálculo do pró-labore que o próprio negócio sustenta, ano a ano · estudo convertido em rotina mensal de acompanhamento (DRE gerencial, metas e fluxo de caixa) |
 
 </details>
 
 <details>
-<summary><b>📌 Observatório de vocações produtivas dos municípios de MT</b></summary>
+<summary><b> Observatório de vocações produtivas dos municípios de MT</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Alinhar a oferta de cursos e assistência técnica à realidade produtiva de cada território. *(Projeto da Equipe de Dados.)* |
-| 🛠️ **Tecnologias e metodologias** | Power BI · indicadores de escala, especialização, produtividade e tendência · série histórica 2020–2024 · perfil demográfico municipal |
-| 📊 **Impacto e resultados** | 49 vocações avaliadas (37 agrícolas e 12 pecuárias) · mais de 5,9 mil diagnósticos de território e vocação, classificados de "emergente" a "consolidada" |
+|  **Objetivo de negócio** | Alinhar a oferta de cursos e assistência técnica à realidade produtiva de cada território. *(Projeto da Equipe de Dados.)* |
+|  **Tecnologias e metodologias** | Power BI · indicadores de escala, especialização, produtividade e tendência · série histórica 2020–2024 · perfil demográfico municipal |
+|  **Impacto e resultados** | 49 vocações avaliadas (37 agrícolas e 12 pecuárias) · mais de 5,9 mil diagnósticos de território e vocação, classificados de "emergente" a "consolidada" |
 
 </details>
 
 <details>
-<summary><b>📌 Econometria aplicada — crescimento puxado por salários no Brasil</b></summary>
+<summary><b> Econometria aplicada — crescimento puxado por salários no Brasil</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Testar empiricamente a relação entre salário, demanda e crescimento na economia brasileira. |
-| 🛠️ **Tecnologias e metodologias** | Vetores Autorregressivos (VAR) · testes ADF/KPSS e Johansen · decomposição de Cholesky · funções de impulso-resposta · Gretl e Stata · bases oficiais (IBGE/SIDRA e BCB/SGS) |
-| 📊 **Impacto e resultados** | Base reconstruída a partir de fontes primárias · modelo principal e modelo de robustez documentados e reproduzíveis |
+|  **Objetivo de negócio** | Testar empiricamente a relação entre salário, demanda e crescimento na economia brasileira. |
+|  **Tecnologias e metodologias** | Vetores Autorregressivos (VAR) · testes ADF/KPSS e Johansen · decomposição de Cholesky · funções de impulso-resposta · Gretl e Stata · bases oficiais (IBGE/SIDRA e BCB/SGS) |
+|  **Impacto e resultados** | Base reconstruída a partir de fontes primárias · modelo principal e modelo de robustez documentados e reproduzíveis |
 
 </details>
 
 <details>
-<summary><b>📌 Simulação de regras de custo e remuneração de eventos</b></summary>
+<summary><b> Simulação de regras de custo e remuneração de eventos</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Mostrar o efeito financeiro de diferentes critérios de pagamento antes da decisão. |
-| 🛠️ **Tecnologias e metodologias** | Power BI · DAX · análise de cenários "atual × simulado" |
-| 📊 **Impacto e resultados** | Diferença líquida por cenário e identificação das unidades com aumento ou redução em cada regra |
+|  **Objetivo de negócio** | Mostrar o efeito financeiro de diferentes critérios de pagamento antes da decisão. |
+|  **Tecnologias e metodologias** | Power BI · DAX · análise de cenários "atual × simulado" |
+|  **Impacto e resultados** | Diferença líquida por cenário e identificação das unidades com aumento ou redução em cada regra |
 
 </details>
 
-### 🌐 Desenvolvimento Web
+###  Desenvolvimento Web
 
 <details open>
-<summary><b>📌 Site institucional de agência de marketing e dados</b></summary>
+<summary><b> Site institucional de agência de marketing e dados</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Apresentar os serviços de marketing e de inteligência de dados da agência e gerar contatos comerciais. |
-| 🛠️ **Tecnologias e metodologias** | HTML5 · CSS3 (grid, layout responsivo) · ícones em SVG · identidade visual aplicada · botão de contato via WhatsApp · versão em PDF |
-| 📊 **Impacto e resultados** | Site de página única com serviços em abas, fluxo de trabalho em 7 etapas e seção de equipe · responsivo para celular |
+|  **Objetivo de negócio** | Apresentar os serviços de marketing e de inteligência de dados da agência e gerar contatos comerciais. |
+|  **Tecnologias e metodologias** | HTML5 · CSS3 (grid, layout responsivo) · ícones em SVG · identidade visual aplicada · botão de contato via WhatsApp · versão em PDF |
+|  **Impacto e resultados** | Site de página única com serviços em abas, fluxo de trabalho em 7 etapas e seção de equipe · responsivo para celular |
 
 </details>
 
 <details>
-<summary><b>📌 Aplicativos de quiz gamificado</b></summary>
+<summary><b> Aplicativos de quiz gamificado</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Engajar participantes em campanhas internas e eventos por meio de missões e pontuação. |
-| 🛠️ **Tecnologias e metodologias** | HTML · CSS · JavaScript · controle de participação · exportação de respostas e logs · GitHub Pages |
-| 📊 **Impacto e resultados** | Estrutura reutilizada em dois projetos · demo: [newgiovanni0833.github.io/Agrihubconecta](https://newgiovanni0833.github.io/Agrihubconecta) |
+|  **Objetivo de negócio** | Engajar participantes em campanhas internas e eventos por meio de missões e pontuação. |
+|  **Tecnologias e metodologias** | HTML · CSS · JavaScript · controle de participação · exportação de respostas e logs · GitHub Pages |
+|  **Impacto e resultados** | Estrutura reutilizada em dois projetos · demo: [newgiovanni0833.github.io/Agrihubconecta](https://newgiovanni0833.github.io/Agrihubconecta) |
 
 </details>
 
 <details>
-<summary><b>📌 Painel executivo: do protótipo web ao Power BI</b></summary>
+<summary><b> Painel executivo: do protótipo web ao Power BI</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Validar com a gestão o desenho de um painel executivo de cinco áreas antes de construí-lo em produção. |
-| 🛠️ **Tecnologias e metodologias** | HTML · Tailwind CSS · JavaScript puro · Figma · modo TV em tela cheia |
-| 📊 **Impacto e resultados** | Protótipo navegável com abas, filtros e tabelas expansíveis · design system replicado nos painéis oficiais |
+|  **Objetivo de negócio** | Validar com a gestão o desenho de um painel executivo de cinco áreas antes de construí-lo em produção. |
+|  **Tecnologias e metodologias** | HTML · Tailwind CSS · JavaScript puro · Figma · modo TV em tela cheia |
+|  **Impacto e resultados** | Protótipo navegável com abas, filtros e tabelas expansíveis · design system replicado nos painéis oficiais |
 
 </details>
 
 ---
 
-## 🗃️ Repositórios de dados: como eu estruturo
+##  Repositórios de dados: como eu estruturo
 
 Um repositório de dados só é útil se for **confiável, reproduzível e seguro**. Sigo o mesmo roteiro em todos os projetos:
 
@@ -362,7 +362,7 @@ Um repositório de dados só é útil se for **confiável, reproduzível e segur
 
 ---
 
-## 📫 Contato
+##  Contato
 
 Aberto a oportunidades e projetos em **Análise de Dados e BI**, **Engenharia de Privacidade e Governança de Dados** e **Inteligência Econômica**.
 
