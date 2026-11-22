@@ -133,7 +133,7 @@ HTML5 · CSS3 · JavaScript · D3.js · Tailwind CSS · design responsivo · pub
 
 ##  Repositórios do portfólio
 
-Cada repositório é executável, traz dados fictícios e documenta o método.
+Cada repositório é executável e documenta o método. Os de engenharia e BI usam dados fictícios; os de econometria usam dados públicos oficiais.
 
 | Repositório | Pilar | O que você encontra |
 |---|---|---|
@@ -141,6 +141,8 @@ Cada repositório é executável, traz dados fictícios e documenta o método.
 |  [**repositorio-gap-analysis**](https://github.com/newgiovanni0833/repositorio-gap-analysis) | Repositórios de Dados · Web | Comparação campo a campo entre sistema de origem e repositório, backlog de modelagem e diagrama interativo em D3.js |
 |  [**etl-incremental-sqlserver**](https://github.com/newgiovanni0833/etl-incremental-sqlserver) | Engenharia de Dados | Carga incremental e idempotente com blocos, staging, `MERGE` e checkpoint, testada com 722 mil linhas |
 |  [**frota-star-schema**](https://github.com/newgiovanni0833/frota-star-schema) | Análise de Dados e BI | ETL de planilhas operacionais para Star Schema, dicionário de dados, log de qualidade e medidas DAX |
+|  [**multiplicadores-fiscais-brasil**](https://github.com/newgiovanni0833/multiplicadores-fiscais-brasil) | Econometria | Pacote de replicação do artigo premiado: System GMM em painel de 27 UFs, VAR e SVAR com bootstrap e projeções locais, em Gretl, Python, Stata e SPSS |
+|  [**var-salario-minimo-wage-led**](https://github.com/newgiovanni0833/ar-salario-minimo-wage-led) | Econometria | Replicação da monografia premiada: três modelos VAR sobre salário mínimo e crescimento (1998–2026), com FIR por bootstrap e decomposição da variância |
 |  [**viabilidade-economica-evef**](https://github.com/newgiovanni0833/viabilidade-economica-evef) | Economia | Modelo de viabilidade em 3 cenários: VPL, TIR, Payback, Simples Nacional e vale de caixa mês a mês |
 
 ---
@@ -297,7 +299,7 @@ Cada repositório é executável, traz dados fictícios e documenta o método.
 |---|---|
 |  **Objetivo de negócio** | Medir quanto o gasto público eleva o produto e testar se o investimento rende mais que o consumo do governo. |
 |  **Tecnologias e metodologias** | System GMM em duas etapas (27 UFs, 2014–2023) com instrumentos colapsados, correção de Windmeijer e diferença de Hansen · VAR e SVAR trivariado com juro real · bootstrap de resíduos (1.999 réplicas) · projeções locais (LP-IV) · Toda–Yamamoto · Chow–Lin · instrumento *shift-share* · Gretl, Python, Stata e SPSS |
-|  **Impacto e resultados** | 1º lugar no XXXII Prêmio Brasil de Economia (Cofecon, 2026) · multiplicador acumulado do consumo do governo de 2,40 em 12 trimestres · resultado do investimento sensível à especificação, reportado como tal · base própria com dados do SICONFI, IBGE, Tesouro e MDS |
+|  **Impacto e resultados** | 1º lugar no XXXII Prêmio Brasil de Economia (Cofecon, 2026) · multiplicador acumulado do consumo do governo de 2,40 em 12 trimestres · resultado do investimento sensível à especificação, reportado como tal · base própria com dados do SICONFI, IBGE, Tesouro e MDS · [repositório](https://github.com/newgiovanni0833/multiplicadores-fiscais-brasil) |
 
 </details>
 
@@ -309,7 +311,7 @@ Cada repositório é executável, traz dados fictícios e documenta o método.
 |---|---|
 |  **Objetivo de negócio** | Testar empiricamente se a valorização do salário mínimo sustenta um regime de crescimento puxado pelos salários. |
 |  **Tecnologias e metodologias** | Três modelos VAR (demanda, industrial e desocupação) · testes ADF/KPSS e Johansen · Granger e Toda–Yamamoto · FIR acumuladas com Cholesky e bandas por bootstrap · decomposição da variância · Gretl (Hansl) · bases oficiais (IBGE/SIDRA e BCB/SGS) |
-|  **Impacto e resultados** | 1º lugar entre as melhores monografias de Economia de MT (Corecon-MT, 2024) · na versão atualizada até 2026, choque de 1% no salário mínimo real associado a alta acumulada de 0,49% do PIB em 12 trimestres · script único que reproduz 13 tabelas e 4 gráficos |
+|  **Impacto e resultados** | 1º lugar entre as melhores monografias de Economia de MT (Corecon-MT, 2024) · na versão atualizada até 2026, choque de 1% no salário mínimo real associado a alta acumulada de 0,49% do PIB em 12 trimestres · script único que reproduz 13 tabelas e 4 gráficos · [repositório](https://github.com/newgiovanni0833/ar-salario-minimo-wage-led) |
 
 </details>
 
