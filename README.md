@@ -15,23 +15,26 @@
 
 <br/>
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#-principais-habilidades)
-[![DAX](https://img.shields.io/badge/DAX-avançado-F2C811?style=flat-square)](#-principais-habilidades)
-[![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346?style=flat-square)](#-principais-habilidades)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#-principais-habilidades)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#-principais-habilidades)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#-principais-habilidades)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#-principais-habilidades)
-[![Excel](https://img.shields.io/badge/Excel%20avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#-principais-habilidades)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#principais-habilidades)
+[![DAX](https://img.shields.io/badge/DAX-avançado-F2C811?style=flat-square)](#principais-habilidades)
+[![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346?style=flat-square)](#principais-habilidades)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#principais-habilidades)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#principais-habilidades)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#principais-habilidades)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#principais-habilidades)
+[![Excel](https://img.shields.io/badge/Excel%20avançado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#principais-habilidades)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#-principais-habilidades)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#-principais-habilidades)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#-principais-habilidades)
-[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)](#-principais-habilidades)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](#-principais-habilidades)
-[![LGPD](https://img.shields.io/badge/LGPD-ROPA%20%7C%20Inventário%20de%20Dados-0B7285?style=flat-square)](#-principais-habilidades)
-[![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E7D32?style=flat-square)](#-principais-habilidades)
-[![Econometria](https://img.shields.io/badge/Econometria-VAR%20%7C%20Stata%20%7C%20Gretl-6A1B9A?style=flat-square)](#-principais-habilidades)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#principais-habilidades)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#principais-habilidades)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#principais-habilidades)
+[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)](#principais-habilidades)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](#principais-habilidades)
+[![LGPD](https://img.shields.io/badge/LGPD-ROPA%20%7C%20Inventário%20de%20Dados-0B7285?style=flat-square)](#principais-habilidades)
+[![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E7D32?style=flat-square)](#principais-habilidades)
+[![Econometria](https://img.shields.io/badge/Econometria-VAR%20%7C%20SVAR%20%7C%20System%20GMM-6A1B9A?style=flat-square)](#principais-habilidades)
+[![Gretl](https://img.shields.io/badge/Gretl-Hansl-B5121B?style=flat-square)](#principais-habilidades)
+[![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat-square)](#principais-habilidades)
+[![SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=flat-square)](#principais-habilidades)
 
 </div>
 
@@ -54,6 +57,16 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 |  **Formação** | Ciências Econômicas (UFMT) · MBA em Data Science e Analytics (em andamento) · MBA em Gestão da Qualidade e Auditoria · Pós em Logística Empresarial e Gestão de Produção |
 |  **Certificações** | Lean Six Sigma Green Belt · SQL Avançado · AWS Cloud Practitioner · Valuation (ANBIMA) · Finanças Corporativas (FGV) |
 |  **Idiomas** | Português (nativo) · Inglês · Espanhol |
+
+---
+
+## Premiações e reconhecimentos
+
+| Ano | Reconhecimento | Concedido por | Trabalho |
+|---|---|---|---|
+| 2026 | **1º lugar no XXXII Prêmio Brasil de Economia**, categoria Artigo Técnico ou Científico | Conselho Federal de Economia (Cofecon) | "Além do Equilíbrio Fiscal: o orçamento público como motor do desenvolvimento brasileiro", publicado no *Prisma Econômico* (UFMT) · [Cofecon](https://cofecon.org.br/cofecon/?p=28464) · [Corecon-MT](https://www.corecon-mt.org.br/noticia/economista-de-mato-grosso-conquista-1-lugar-no-xxxii-premio-brasil-de-economia_6a9b19961c20c) |
+| 2025 | **Moção de Aplausos** na sessão especial pelos 60 anos da Faculdade de Economia da UFMT | Assembleia Legislativa de Mato Grosso (ALMT) | Homenagem como economista premiado pelo Corecon-MT · [notícia](https://imprensadigital.com.br/brasil/almt-homenageia-faculdade-de-economia-da-ufmt-pelos-60-anos-e-celebra-lancamento-do-livro-concerto-ufmt/) |
+| 2024 | **1º lugar entre as melhores monografias** dos cursos de Economia de Mato Grosso | Conselho Regional de Economia (Corecon-MT) | "Trabalho e Desenvolvimento Socioeconômico Brasileiro Promovido pelos Governos entre 1998 e 2022" · [Corecon-MT](https://www.corecon-mt.org.br/noticia/corecon-mt-premia-melhores-monografias-dos-cursos-de-economia-de-mt_66fd549492a03) |
 
 ---
 
@@ -100,7 +113,9 @@ Antes disso passei por controladoria em logística, pesquisa aplicada para a ind
 - Fluxo de caixa projetado e análise de cenários
 - Ponto de equilíbrio, margens e precificação
 - Simulação tributária (Simples Nacional)
-- Econometria: séries temporais e modelos VAR
+- Séries temporais: VAR, SVAR, projeções locais, Toda–Yamamoto, bootstrap
+- Painel dinâmico: System GMM (Blundell–Bond), testes de Hansen, instrumento *shift-share*
+- Gretl (Hansl), Python (statsmodels, linearmodels), Stata e SPSS
 
 </td>
 </tr>
@@ -274,15 +289,27 @@ Cada repositório é executável, traz dados fictícios e documenta o método.
 
 </details>
 
-<details>
-<summary><b> Econometria aplicada — crescimento puxado por salários no Brasil</b></summary>
+<details open>
+<summary><b> Multiplicadores fiscais no Brasil — painel dinâmico e VAR (artigo premiado)</b></summary>
 <br/>
 
 | | |
 |---|---|
-|  **Objetivo de negócio** | Testar empiricamente a relação entre salário, demanda e crescimento na economia brasileira. |
-|  **Tecnologias e metodologias** | Vetores Autorregressivos (VAR) · testes ADF/KPSS e Johansen · decomposição de Cholesky · funções de impulso-resposta · Gretl e Stata · bases oficiais (IBGE/SIDRA e BCB/SGS) |
-|  **Impacto e resultados** | Base reconstruída a partir de fontes primárias · modelo principal e modelo de robustez documentados e reproduzíveis |
+|  **Objetivo de negócio** | Medir quanto o gasto público eleva o produto e testar se o investimento rende mais que o consumo do governo. |
+|  **Tecnologias e metodologias** | System GMM em duas etapas (27 UFs, 2014–2023) com instrumentos colapsados, correção de Windmeijer e diferença de Hansen · VAR e SVAR trivariado com juro real · bootstrap de resíduos (1.999 réplicas) · projeções locais (LP-IV) · Toda–Yamamoto · Chow–Lin · instrumento *shift-share* · Gretl, Python, Stata e SPSS |
+|  **Impacto e resultados** | 1º lugar no XXXII Prêmio Brasil de Economia (Cofecon, 2026) · multiplicador acumulado do consumo do governo de 2,40 em 12 trimestres · resultado do investimento sensível à especificação, reportado como tal · base própria com dados do SICONFI, IBGE, Tesouro e MDS |
+
+</details>
+
+<details>
+<summary><b> Salário mínimo e crescimento — VAR para o Brasil (monografia premiada)</b></summary>
+<br/>
+
+| | |
+|---|---|
+|  **Objetivo de negócio** | Testar empiricamente se a valorização do salário mínimo sustenta um regime de crescimento puxado pelos salários. |
+|  **Tecnologias e metodologias** | Três modelos VAR (demanda, industrial e desocupação) · testes ADF/KPSS e Johansen · Granger e Toda–Yamamoto · FIR acumuladas com Cholesky e bandas por bootstrap · decomposição da variância · Gretl (Hansl) · bases oficiais (IBGE/SIDRA e BCB/SGS) |
+|  **Impacto e resultados** | 1º lugar entre as melhores monografias de Economia de MT (Corecon-MT, 2024) · na versão atualizada até 2026, choque de 1% no salário mínimo real associado a alta acumulada de 0,49% do PIB em 12 trimestres · script único que reproduz 13 tabelas e 4 gráficos |
 
 </details>
 
