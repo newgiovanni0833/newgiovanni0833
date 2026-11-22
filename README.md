@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Newton Giovanni
+#  Newton Giovanni
 
 ### Economia × Dados × Governança de Dados (LGPD)
 
