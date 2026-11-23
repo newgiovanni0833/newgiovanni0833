@@ -260,9 +260,9 @@ Cada repositório é executável e documenta o método. Os de engenharia e BI us
 
 | | |
 |---|---|
-| 🎯 **Objetivo de negócio** | Medir a agilidade do atendimento interno com a mesma regra do sistema de tickets. |
-| 🛠️ **Tecnologias e metodologias** | Power BI · API paginada · DAX com calendário de jornada (expediente, fins de semana e feriados) · painéis de detalhe em HTML/CSS sem JavaScript |
-| 📊 **Impacto e resultados** | Mais de 1,1 mil chamados monitorados · tempos de resposta e de solução calculados em horas úteis · limitações da API documentadas e aceitas pela área |
+| **Objetivo de negócio** | Medir a agilidade do atendimento interno com a mesma regra do sistema de tickets. |
+| **Tecnologias e metodologias** | Power BI · API paginada · DAX com calendário de jornada (expediente, fins de semana e feriados) · painéis de detalhe em HTML/CSS sem JavaScript |
+| **Impacto e resultados** | Mais de 1,1 mil chamados monitorados · tempos de resposta e de solução calculados em horas úteis · limitações da API documentadas e aceitas pela área |
 
 </details>
 
@@ -376,7 +376,7 @@ Um repositório de dados só é útil se for **confiável, reproduzível e segur
  Fontes                Ingestão               Modelagem            Consumo
 ┌──────────────┐    ┌───────────────┐    ┌────────────────┐    ┌──────────────┐
 │ ERPs e APIs  │    │ Python ETL    │    │ SQL Server     │    │ Power BI     │
-│ CSV / Excel  │ ─▶ │ chunks        │ ─▶ │ staging + MERGE│ ─▶ │ Star Schema  │
+│ CSV / Excel  │ ─> │ chunks        │ ─> │ staging + MERGE│ ─> │ Star Schema  │
 │ sistemas web │    │ checkpoint    │    │ dimensões/fatos│    │ acesso por   │
 └──────────────┘    └───────────────┘    └────────────────┘    │ perfil       │
                                                                └──────────────┘
